@@ -6,7 +6,12 @@
 [![Chat on Discord](https://img.shields.io/discord/957290213246390352)](https://discord.com/invite/PAUJFKCGbb)
 [![Sponsor this project](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/achimmihca)
 
+========================================================
+### FORKED FROM https://github.com/UltraStar-Deluxe/Play
+========================================================
+
 ### About
+
 [UltraStar Play](https://usplay.net/) is a free and open source singing game.
 The game plays an audio file, displays lyrics, notes, and optionally a background video or image, while the players sing along to earn points.
 
